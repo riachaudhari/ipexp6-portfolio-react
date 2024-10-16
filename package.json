@@ -1,9 +1,10 @@
-"homepage": "https://riachaudhari.github.io/ipexp6-portfolio-react",
+
 {
   "name": "ria-portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://riachaudhari.github.io/ria-portfolio"
   "scripts": {
     "dev": "vite",
     "build": "vite build",
